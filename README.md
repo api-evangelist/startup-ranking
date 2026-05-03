@@ -1,11 +1,35 @@
 # Startup Ranking
 
-Startup Ranking (startupranking.com) is a platform that ranks startups globally based on web presence and social signals. The platform generates a unique global ranking of startups using a proprietary algorithm that tracks the daily evolution of inbound and outbound web links alongside social media engagement metrics. Each startup receives an SR Score — a number between 0 and 100,000 — that reflects its importance on the internet and its social influence, derived from SR Web and SR Social sub-scores. Startups are assigned a global Rank based on their SR Score relative to all other listed startups, as well as a Country Rank comparing them to startups from the same country.
+Startup Ranking is a platform that tracks, ranks, and indexes startups worldwide based on web presence, social metrics, and growth signals. It provides startup discovery, competitive benchmarking, and market intelligence for investors, entrepreneurs, and researchers.
 
-Users can discover, research, and prospect startups from around the world through the platform's directory, filtered by country, category, and score. Founders can register their startups for free, claim ownership of an existing listing, and wait for approval or use the SR Faster Approval option for expedited 24-hour review. Startup Ranking also offers paid services including SR Booster, SR Pro, and SR Advertising to help startups improve visibility, optimize their SEO, and reach a broader audience.
+- **Website:** [https://www.startupranking.com/](https://www.startupranking.com/)
+- **About:** [https://www.startupranking.com/about](https://www.startupranking.com/about)
+- **Blog:** [https://www.startupranking.com/blog](https://www.startupranking.com/blog)
+- **Privacy Policy:** [https://www.startupranking.com/privacy](https://www.startupranking.com/privacy)
+- **Terms of Service:** [https://www.startupranking.com/terms](https://www.startupranking.com/terms)
+- **X:** [https://x.com/startupranking](https://x.com/startupranking)
+- **LinkedIn:** [https://www.linkedin.com/company/startup-ranking](https://www.linkedin.com/company/startup-ranking)
 
-**URL:** [https://www.startupranking.com/](https://www.startupranking.com/)
+## About
 
-## APIs
+Startup Ranking measures and ranks startups globally using a proprietary SR Score that combines web traffic, social media presence, and digital footprint signals. The platform enables investors and entrepreneurs to discover startups, track competitors, and analyze growth trends across industries and geographies. Each startup receives a global rank, country rank, and category rank based on its SR Score.
 
-No public developer API has been identified for Startup Ranking. Startup discovery, ranking data, and submission are handled through the web interface at startupranking.com. Founders and researchers can access startup rankings, country leaderboards, and category filters directly via the platform. For account creation and startup submission, visit the registration page at [https://app.startupranking.com/register](https://app.startupranking.com/register). Details on how the ranking algorithm works are available at [https://www.startupranking.com/how-it-works](https://www.startupranking.com/how-it-works).
+No public developer API has been identified for Startup Ranking. Startup discovery, ranking data, and submission are handled through the web interface at startupranking.com.
+
+## JSON-LD Context
+
+| File | Description |
+|---|---|
+| [json-ld/startup-ranking-context.jsonld](json-ld/startup-ranking-context.jsonld) | JSON-LD context mapping Startup Ranking analytics and ranking concepts to schema.org vocabulary |
+
+## Vocabulary
+
+| File | Description |
+|---|---|
+| [vocabulary/startup-ranking-vocabulary.yml](vocabulary/startup-ranking-vocabulary.yml) | Domain vocabulary for Startup Ranking analytics, scoring, and competitive intelligence concepts |
+
+## Maintainers
+
+**FN:** API Evangelist
+
+**Email:** info@apievangelist.com

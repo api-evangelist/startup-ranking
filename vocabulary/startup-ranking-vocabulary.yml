@@ -1,0 +1,96 @@
+name: Startup Ranking Vocabulary
+description: >-
+  Domain vocabulary for Startup Ranking's startup analytics and ranking platform concepts covering scoring methodologies, ranking metrics, and competitive intelligence.
+created: '2026-05-02'
+modified: '2026-05-02'
+terms:
+  - term: SR Score
+    definition: >-
+      Startup Ranking's proprietary composite score that measures a startup's online presence and growth across multiple digital channels including web traffic, social media, and app store metrics.
+    tags:
+      - Scoring
+      - Metrics
+
+  - term: Global Rank
+    definition: >-
+      A startup's position in the worldwide ranking table on Startup Ranking, based on its SR Score relative to all tracked startups globally.
+    tags:
+      - Ranking
+      - Global
+
+  - term: Country Rank
+    definition: >-
+      A startup's ranking position within its home country or a specified country, enabling regional competitive benchmarking.
+    tags:
+      - Ranking
+      - Geographic
+
+  - term: Category Rank
+    definition: >-
+      A startup's ranking position within a specific industry or product category, enabling sector-specific competitive analysis.
+    tags:
+      - Ranking
+      - Industry
+
+  - term: Social Score
+    definition: >-
+      A component of the SR Score measuring the startup's social media presence and engagement across platforms including Twitter/X, Facebook, LinkedIn, and Instagram.
+    tags:
+      - Social
+      - Metrics
+
+  - term: Alexa Rank
+    definition: >-
+      A web traffic metric (now discontinued but historically tracked) measuring website popularity based on estimated daily unique visitors and page views. Used as a proxy for web presence.
+    tags:
+      - Web Traffic
+      - Metrics
+
+  - term: Startup Index
+    definition: >-
+      The comprehensive database of startups tracked by Startup Ranking, covering company profiles, ranking history, and social metrics for tens of thousands of companies worldwide.
+    tags:
+      - Database
+      - Index
+
+  - term: Growth Signal
+    definition: >-
+      An upward trend in a startup's SR Score, social metrics, or web traffic indicating product traction, marketing momentum, or viral growth.
+    tags:
+      - Analytics
+      - Growth
+
+  - term: Competitive Benchmarking
+    definition: >-
+      The process of comparing a startup's Startup Ranking metrics against similar companies in the same category or country to assess relative market position.
+    tags:
+      - Analytics
+      - Competition
+
+  - term: Tracking
+    definition: >-
+      The process of monitoring a specific startup's ranking and metric changes over time on Startup Ranking to identify growth trends or competitive shifts.
+    tags:
+      - Monitoring
+      - Analytics
+
+  - term: Web Presence
+    definition: >-
+      A measure of a startup's overall digital footprint including website traffic, social media followers, app store ratings, and media mentions that contributes to the SR Score.
+    tags:
+      - Metrics
+      - Digital
+
+  - term: Startup Discovery
+    definition: >-
+      Finding and identifying relevant startups through the Startup Ranking search and browse interface, filterable by category, country, and ranking range.
+    tags:
+      - Discovery
+      - Research
+
+  - term: Ranking History
+    definition: >-
+      The historical time-series data of a startup's rank position changes over time, useful for tracking growth trajectories and identifying inflection points.
+    tags:
+      - History
+      - Analytics

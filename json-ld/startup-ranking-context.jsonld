@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "sr": "https://www.startupranking.com/vocab#",
+    "Startup": "Organization",
+    "Ranking": "sr:Ranking",
+    "SRScore": "sr:SRScore",
+    "id": "@id",
+    "name": "name",
+    "description": "description",
+    "url": "url",
+    "logo": "logo",
+    "country": "addressCountry",
+    "category": "industry",
+    "tags": "keywords",
+    "foundedYear": "foundingDate",
+    "employees": "numberOfEmployees",
+    "rank": {
+      "@id": "sr:globalRank",
+      "@type": "Integer"
+    },
+    "countryRank": {
+      "@id": "sr:countryRank",
+      "@type": "Integer"
+    },
+    "categoryRank": {
+      "@id": "sr:categoryRank",
+      "@type": "Integer"
+    },
+    "srScore": {
+      "@id": "sr:srScore",
+      "@type": "Integer"
+    },
+    "socialScore": {
+      "@id": "sr:socialScore",
+      "@type": "Integer"
+    },
+    "twitterFollowers": {
+      "@id": "sr:twitterFollowers",
+      "@type": "Integer"
+    },
+    "facebookLikes": {
+      "@id": "sr:facebookLikes",
+      "@type": "Integer"
+    },
+    "linkedinFollowers": {
+      "@id": "sr:linkedinFollowers",
+      "@type": "Integer"
+    },
+    "alexaRank": {
+      "@id": "sr:alexaRank",
+      "@type": "Integer"
+    },
+    "lastUpdated": "dateModified",
+    "website": "url",
+    "twitter": "sameAs",
+    "linkedin": "sameAs",
+    "crunchbase": "sameAs"
+  }
+}
