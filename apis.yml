@@ -15,6 +15,8 @@ description: >-
   Startup Ranking is a platform that tracks, ranks, and indexes startups worldwide based on web presence, social metrics, and growth signals. It provides startup discovery, competitive benchmarking, and market intelligence for investors, entrepreneurs, and researchers.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/startup-ranking-domain-security.yml
   - url: https://www.startupranking.com/
     name: Startup Ranking Website
     type: Website
