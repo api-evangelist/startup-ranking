@@ -3,10 +3,12 @@
   "feeds": [
     {
       "source": "https://www.startupranking.com/blog",
+      "feed_url": "https://www.startupranking.com/blog",
+      "title": "",
       "saved": 0,
-      "error": "HTTP 403 Forbidden"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:14:53Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
