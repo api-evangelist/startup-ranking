@@ -1,0 +1,33 @@
+# Front Door AI Index — startup-ranking — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: startup-ranking
+  lexicon_version: '1.0'
+  probed_at: '2026-09-25'
+  host: www.startupranking.com
+  final_host: www.startupranking.com
+  ownership: own
+  owner: startup-ranking
+  shares_host_with: null
+  inherited_from: null
+  alias_of: null
+  verdict: scored
+  score: 18
+  band: 5
+  band_label: prominent
+  host_score: 18
+  density: 16.87
+  words: 1067
+  tiers:
+    agentic: 2
+    core: 13
+    model: 3
+  ambiguous: 2
+  top_terms:
+    AI: 12
+    Anthropic: 3
+    agentic: 2
+    LLMs: 1
+    agent: 1
+    smart: 1
